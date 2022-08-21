@@ -1,4 +1,4 @@
-let situacao = "reprovada";
+let situacao = "não sei";
 
 switch (situacao) {
     case "aprovada":
